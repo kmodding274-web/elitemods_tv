@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": {
+    "subStat": "1",
+    "plan": "Mod By @EliteMods_Hub",
+    "cta": "Active",
+    "valdTxt": "Enjoy ✨",
+    "pvend": "JUSPAY",
+    "sectionTile": {
+      "id": "18",
+      "lyt": "TS1",
+      "acttxt": "",
+      "text": "Top 10"
+    },
+    "valEp": null,
+    "mdActv": true
+  }
+}
